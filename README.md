@@ -1,5 +1,5 @@
 # README
-Ruby on rails by Ketki
+Ruby on rails by Ketki Sajan
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
